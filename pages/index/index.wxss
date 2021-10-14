@@ -1,4 +1,6 @@
 /**index.wxss**/
+@import "../component/Student_bind.wxss";
+@import "../component/Bind.wxss";
 .userinfo {
   display: flex;
   flex-direction: column;

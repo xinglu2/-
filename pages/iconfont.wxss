@@ -1,0 +1,52 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2861536 */
+  src: url('//at.alicdn.com/t/font_2861536_occwmiisgal.woff2?t=1634195847195') format('woff2'),
+       url('//at.alicdn.com/t/font_2861536_occwmiisgal.woff?t=1634195847195') format('woff'),
+       url('//at.alicdn.com/t/font_2861536_occwmiisgal.ttf?t=1634195847195') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuotui:before {
+  content: "\e615";
+}
+
+.icon-bs_activity_phone:before {
+  content: "\e622";
+}
+
+.icon-kejituandui:before {
+  content: "\e60e";
+}
+
+.icon-minpian:before {
+  content: "\e6ff";
+}
+
+.icon-renxiang-:before {
+  content: "\e629";
+}
+
+.icon-zuotui:before {
+  font-size: 16vmin;
+  position: absolute;
+  /* opacity: 0.8; */
+  padding-top: 0px;
+  margin-top: -6vmin;
+  margin-left: -3vmin;
+  background-color:inherit;
+}
+.in{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 20px;
+  font-size: 30px;
+  opacity: 0.6;
+}

@@ -1,0 +1,27 @@
+<view class="x-top">
+    <button class="x-left" style="width:10vmin;height:10vmin;margin:10px;top:10px;">
+      <text class="iconfont icon-zuotui" style="color:white;"></text>
+    </button>
+    <view class="x-img">
+    <image src="../images/touxiang.png" alt=""/>
+    </view>
+  </view>
+  <view class="x-bottom">
+  <form class="x-form">
+    <input type="text" class="x-input invite-code" placeholder="邀请码" >
+      <text class="iconfont icon-renxiang- in" style="color: #0095F2;"></text>
+    </input>
+    <input type="text" class="x-input phone-number" placeholder="手机号">
+      <text class="iconfont icon-bs_activity_phone in" style="color: #0095F2;"></text>
+    </input>
+    <input type="text" class="x-input child-number" placeholder="孩子证件号">
+      <text class="iconfont icon-minpian in" style="color: #0095F2;"></text>
+    </input>
+    <button type="submit" class="x-submit x-input" style="width: 70vmin;">提交</button>
+  </form>
+  </view>
+  <page-meta>
+    <navigation-bar
+      title="绑定"
+    />
+</page-meta>

@@ -1,6 +1,6 @@
 <view class="x-top">
-    <button class="x-left" style="width:10vmin;height:10vmin;margin:10px;top:10px;">
-      <text class="iconfont icon-zuotui" style="color:white;"></text>
+    <button class="x-left" style="width:7vmin;height:8vmin;margin:10px;top:10px;">
+      <text class="iconfont icon-zuojiantou" style="color:white;"></text>
     </button>
     <view class="x-img">
     <image src="../images/touxiang.png" alt=""/>

@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 2861536 */
-  src: url('//at.alicdn.com/t/font_2861536_occwmiisgal.woff2?t=1634195847195') format('woff2'),
-       url('//at.alicdn.com/t/font_2861536_occwmiisgal.woff?t=1634195847195') format('woff'),
-       url('//at.alicdn.com/t/font_2861536_occwmiisgal.ttf?t=1634195847195') format('truetype');
+  src: url('//at.alicdn.com/t/font_2861536_egzlel5i2tu.woff2?t=1634201089987') format('woff2'),
+       url('//at.alicdn.com/t/font_2861536_egzlel5i2tu.woff?t=1634201089987') format('woff'),
+       url('//at.alicdn.com/t/font_2861536_egzlel5i2tu.ttf?t=1634201089987') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,10 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zuojiantou:before {
+  content: "\e601";
 }
 
 .icon-zuotui:before {
@@ -33,14 +37,14 @@
   content: "\e629";
 }
 
-.icon-zuotui:before {
-  font-size: 16vmin;
+
+.icon-zuojiantou:before {
+  font-size: 14vmin;
   position: absolute;
   /* opacity: 0.8; */
   padding-top: 0px;
   margin-top: -6vmin;
   margin-left: -3vmin;
-  background-color:inherit;
 }
 .in{
   position: absolute;

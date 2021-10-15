@@ -1,4 +1,3 @@
-
 .icon {
   width: 1em; height: 1em;
   vertical-align: -0.15em;
@@ -7,21 +6,11 @@
 }
 .x-left{
   position: relative;
-  padding: 0;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
   background-color:inherit;
-  opacity: 0.6;
+  /* border: brown 1px solid; */
+  left: 0px;
 }
-.x-top{
-  height: 30vmax;
-  width: 100vmin;
-  background: rgb(238,174,202);
-  background: linear-gradient(130deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-  clip-path: ellipse(80% 60% at 50% 40%);
-  position: relative;
-}
+
 .x-img{
   width: 20vmin;
   height: 20vmin;

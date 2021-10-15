@@ -2,4 +2,6 @@
 <view class="container">
   <include src="../component/Student_bind.wxml" />
 </view>
+<import src="../iconfont.wxss"></import>
+
 

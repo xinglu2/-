@@ -1,12 +1,12 @@
 <view class="x-top">
-    <button class="x-left" style="width:7vmin;height:8vmin;margin:10px;top:10px;">
-      <text class="iconfont icon-zuojiantou" style="color:white;"></text>
+    <button class="x-left" style="width:50px;height:50px;margin-left:0px;">
+      <text class="iconfont icon-zuojiantou" style="color:white;margin:0px;top:0px;"></text>
     </button>
     <view class="x-img">
     <image src="../images/touxiang.png" alt=""/>
     </view>
-  </view>
-  <view class="x-bottom">
+</view>
+<view class="x-bottom">
   <form class="x-form">
     <input type="text" class="x-input invite-code" placeholder="邀请码" >
       <text class="iconfont icon-renxiang- in" style="color: #0095F2;"></text>
@@ -19,9 +19,10 @@
     </input>
     <button type="submit" class="x-submit x-input" style="width: 70vmin;">提交</button>
   </form>
-  </view>
-  <page-meta>
+</view>
+<page-meta>
     <navigation-bar
       title="绑定"
     />
 </page-meta>
+<import src="./Student_bind.wxss"></import>

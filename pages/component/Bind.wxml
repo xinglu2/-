@@ -1,0 +1,11 @@
+<import src="./Bind.wxss"></import>
+<view class="x-top">
+  <view class="containter">
+    <p class="x-title" style="padding: 0px;">你的孩子</p>
+  </view>
+</view>
+<page-meta>
+    <navigation-bar
+      title="您的孩子"
+    />
+</page-meta>

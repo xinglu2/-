@@ -39,12 +39,13 @@
 
 
 .icon-zuojiantou:before {
-  font-size: 14vmin;
+  font-size: 13vmin;
   position: absolute;
   /* opacity: 0.8; */
   padding-top: 0px;
-  margin-top: -6vmin;
-  margin-left: -3vmin;
+  top: -8px;
+  left: 0px;
+  /* border: solid 1px rgb(86, 228, 73); */
 }
 .in{
   position: absolute;

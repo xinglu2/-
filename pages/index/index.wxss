@@ -1,6 +1,8 @@
 /**index.wxss**/
-@import "../iconfont.wxss";
+@import "../component/Bind.wxss";
 @import "../component/Student_bind.wxss";
+@import "../iconfont1.wxss";
+@import "../iconfont2.wxss"
 .x-top{
   height: 30vmax;
   width: 100vmin;

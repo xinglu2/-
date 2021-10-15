@@ -25,4 +25,3 @@
       title="绑定"
     />
 </page-meta>
-<import src="./Student_bind.wxss"></import>

@@ -1,0 +1,20 @@
+.icon-zuojiantou:before {
+  font-size: 13vmin;
+  position: absolute;
+  opacity: 0.8;
+  padding-top: 0px;
+  top: -8px;
+  left: 0px;
+}
+.in{
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 20px;
+  font-size: 30px;
+  opacity: 0.6;
+}
+.icon-student{
+  font-size: 14vmin;
+  margin: auto;
+}

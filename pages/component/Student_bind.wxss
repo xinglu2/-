@@ -7,7 +7,6 @@
 .x-left{
   position: relative;
   background-color:inherit;
-  /* border: brown 1px solid; */
   left: 0px;
 }
 

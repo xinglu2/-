@@ -1,7 +1,19 @@
 <import src="./Bind.wxss"></import>
 <view class="x-top">
   <view class="containter">
-    <p class="x-title" style="padding: 0px;">你的孩子</p>
+    <view class="x-title" style="padding: 0px;">你的孩子</view>
+  </view>
+</view>
+<view class="x-main">
+  <view class="x-child">
+    <view class="x-child-top">
+      <text class="x-child-top-head">
+        <text class="iconfont icon-student" style=""></text>
+      </text>
+      <text class="x-child-top-name">邢璐璐</text>
+    </view>
+    <view class="hr"></view>
+    <view class="x-child-bottom"></view>
   </view>
 </view>
 <page-meta>

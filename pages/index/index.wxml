@@ -1,6 +1,7 @@
 <!--index.wxml-->
 <view class="container">
-  <include src="../component/Student_bind.wxml" />
+  <!-- <include src="../component/Student_bind.wxml" /> -->
+  <include src="../component/Bind.wxml" />
 </view>
 <import src="../iconfont.wxss"></import>
 
